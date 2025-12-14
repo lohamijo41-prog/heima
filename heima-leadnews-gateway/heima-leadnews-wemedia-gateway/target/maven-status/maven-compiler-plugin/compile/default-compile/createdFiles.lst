@@ -1,0 +1,2 @@
+com\heima\wemedia\gateway\WemediaGatewayApplication.class
+com\heima\wemedia\gateway\filter\AuthorizeFilter.class

@@ -1,0 +1,14 @@
+server:
+  port: 51602
+spring:
+  application:
+    name: leadnews-app-gateway
+  main:
+    web-application-type: reactive
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+      config:
+        server-addr: 127.0.0.1:8848
+        file-extension: yml

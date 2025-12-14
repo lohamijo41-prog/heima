@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.heima:heima-leadnews-feign-api:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/heima/heima-leadnews-feign-api/1.0-SNAPSHOT/heima-leadnews-feign-api-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/heima-leadnews-feign-api/heima-leadnews-feign-api-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/heima/heima-leadnews-feign-api/1.0-SNAPSHOT/heima-leadnews-feign-api-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/heima-leadnews-feign-api/heima-leadnews-feign-api-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/heima/heima-leadnews-feign-api/1.0-SNAPSHOT/heima-leadnews-feign-api-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
